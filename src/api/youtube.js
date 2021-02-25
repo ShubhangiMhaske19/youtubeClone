@@ -5,6 +5,6 @@ export default axios.create({
     params:{
         part:'snippet',
         maxResult:5,
-        key:'AIzaSyBkCnVu5QWtTMLhAvf-FVqh8caUq5JehLE'
+        key:'API KEY'
     }
 });
